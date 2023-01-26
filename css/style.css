@@ -28,7 +28,7 @@ body{
     background-color: var(--Light-grayish-blue-1);
     font-size: 16px;
     font-family: 'Plus Jakarta Sans', sans-serif;
-    height: 100%;
+   
 }
 
 .container{
@@ -48,6 +48,7 @@ header{
     justify-content: space-between;
     margin-bottom: 1rem;
     color: var(--Blue);
+    height: 100%;
 }
 
 header p:hover, .chess:hover{
@@ -101,7 +102,7 @@ img{
     width: 100%;
 }
 .image{
-    width: 10%;
+    width: 5%;
 }
 
 /*----------NOTIFICATIONS NAME STYLES------------*/
@@ -162,6 +163,7 @@ small{
     .container{
         padding: 2rem;
         max-width: 700px;
+        height: auto;
         
     }
 
