@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://00awaudby.github.io/notification-page/)
+- Live Site URL:(https://00awaudby.github.io/notification-page/)
 
 ## My process
 
