@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/notifications-page-nW_azEeluq)
 - Live Site URL:(https://00awaudby.github.io/notification-page/)
 
 ## My process
