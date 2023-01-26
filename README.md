@@ -30,6 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
+![notification screen shot](https://user-images.githubusercontent.com/84845712/214874667-590e9e81-de66-47ff-8a4d-56da4e959ae4.png)
 
 
 
