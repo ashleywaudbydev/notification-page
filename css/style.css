@@ -28,6 +28,7 @@ body{
     background-color: var(--Light-grayish-blue-1);
     font-size: 16px;
     font-family: 'Plus Jakarta Sans', sans-serif;
+    height: 100vh;
 }
 
 .container{
